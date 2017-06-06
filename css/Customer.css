@@ -1,0 +1,231 @@
+body{
+    background: url("../images/image/backpic.jpg");
+}
+.banner{
+    width: 980px;
+    margin: 0 auto;
+}
+.first_s{
+    background: #c8bb9b;
+}
+.first_w{
+    background: #fefaec;
+}
+.first{
+    height: 52px;
+    background: #c8bb9b;
+    text-align: center;
+}
+.mChange{
+    margin-left: 18px;
+}
+.mChange2{
+    margin: 0 10px;
+}
+.two{
+    height: 25px;
+    background: #fefaec;
+}
+.two ul{
+    height: 25px;
+}
+.city{
+    height: 22px;
+    width: 60px;
+    padding-right: 13px;
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+    margin: 1px 20px 0 18px;
+    background: #cfa972 url("../images/image/b.jpg") no-repeat 60px 7px;
+    border-radius: 2px;
+}
+.call{
+    margin-right: 15px;
+    height: 25px;
+    float: left;
+    color: #ff4001;
+    font-size: 15px;
+    text-align: left;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+.done{
+    height: 25px;
+    color: #ff4001;
+    padding: 0 5px;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+.done p{
+    height: 25px;
+    padding:0 8px 0 9px;
+}
+
+
+.three{
+    background-color: #fefaec;
+    height: 326px;
+    padding: 15px 0;
+}
+.business_user{
+    margin-left: 15px;
+    background: url("../images/image/le-login.png") no-repeat;
+    width: 217px;
+    height: 46px;
+}
+.login_box{
+    padding: 40px 165px;
+}
+.login_box2{
+    padding: 0 165px;
+}
+.login_box3{
+    padding: 40px 265px;
+}
+.login_box b{
+    width: 100px;
+    height: 35px;
+    text-align: right;
+    line-height: 35px;
+    font-size: 13px;
+}
+.login_box input{
+    width: 282px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 15px;
+    border:2px solid #cdcdcd;
+    border-radius: 2px;
+    background: #fff;
+    padding: 0 5px;
+}
+.repeat{
+    height: 3px;
+    background: url("../images/image/repeat.gif") repeat-x;
+}
+.login_bottom{
+    height: 4px;
+    background: url("../images/image/login-bottom.png") repeat-x;
+}
+.login_menu{
+    height: 270px;
+    background: #fafafa;
+}
+.login_box3 input{
+    width: 92px;
+    height: 25px;
+    border:1px solid #ff4001;
+    background: #ff4001;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}
+.four{
+    height: 300px;
+    padding-top: 10px;
+    background-color: #fefaec;
+}
+.four .one {
+    height: 55px;
+    padding-top: 5px;
+    font-size: 16px;
+    line-height: 35px;
+    background: url("../images/image/linebg.png") no-repeat 2px 38px;
+}
+.one p{
+    height: 20px;
+    width: 110px;
+    margin-top: 30px;
+    float: left;
+    color: #ad9a55;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: bold;
+}
+.one ol{
+    height: 20px;
+    line-height: 20px;
+    color: #c2af6b;
+    margin-top: 30px;
+    font-size: 13px;
+    margin-right: 20px;
+}
+.one li a{
+    height: 20px;
+    color: #ad9a55;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: bold;
+    padding: 0 3px;
+}
+.four .second{
+    height: 73px;
+}
+.second ul{
+    padding-left: 22px;
+}
+.second li{
+    width: 159px;
+    height: 52px;
+    margin-top: 10px;
+    font-size: 18px;
+    float: left;
+    line-height: 52px;
+    color: #c2af6b;
+    font-family:'微软雅黑';
+}
+.second b{
+    padding-left: 10px;
+}
+.second .span{
+    margin-top: 8px;
+    border-bottom: 1px dashed #a08629;
+}
+.third{
+    height: 26px;
+    margin-top: 20px;
+    margin-left: 123px;
+    text-align: left;
+}
+.third a{
+    color: #ad9a55;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: bold;
+}
+.third span{
+    color: #ddd;
+    margin: 0 18px;
+    font-size: 18px;
+}
+.fourth{
+    margin-top: 30px;
+    font-size: 13px;
+    line-height: 28px;
+    color: #ddd;
+    text-align: center;
+}
+.fourth .p1{
+    padding: 0 10px;
+}
+.fourth a{
+    margin: 0 10px;
+    color: #ad9a55;
+}
+.fourth .p2{
+    padding: 0 20px;
+}
+.five{
+    position: fixed;
+    right: 30px;
+    bottom: 200px;
+    width: 64px;
+    height: 150px;
+}
+.five img{
+    width: 64px;
+    height: 64px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,8 @@
+*{margin:0;padding:0;}
+a{text-decoration:none;}
+img{display:block;}
+li{list-style:none;}
+.fl{float:left;}
+.fr{float:right;}
+.clearFix:after{content:'';display:block;clear:both;}
+.clearFix{zoom:1;}
